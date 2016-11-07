@@ -1,0 +1,64 @@
+body{
+    background-color:#FFF;
+}
+.square{
+    width:140px;
+    height:140px;
+    border:12px solid #FFF;
+}
+
+.v{
+    border:12px solid #FFF;
+}
+
+.h{
+    border:12px solid #FFF;
+}
+
+#container{
+    text-align:center;
+}
+
+table {
+    background-color:transparent;
+    text-align:center;
+    font: 60px Work Sans;
+    color:#FFF;
+}
+#board{
+ position: fixed;
+  top: 15%;
+  left: 32%;
+
+}
+table{
+background: url(../images/blur.jpg);
+border-collapse:collapse;
+    background-position: center center;
+    background-size: cover;
+}
+.button-overlay{
+    height:2em;
+    width:10em;
+    font-size:25px;
+    font-family:sans-serif;
+    background-color:transparent;
+    font-weight:bold;
+outline:none;
+border-style:none;
+color:#551a8b;
+
+
+}
+.button-overlay2{
+    height:2em;
+    width:8em;
+    font-size:25px;
+    font-family:sans-serif;
+    background-color:transparent;
+    font-weight:bold;
+outline:none;
+border-style:none;
+color:#000099;
+
+}
